@@ -121,4 +121,6 @@ Create a GUI for users to input and test custom messages.
 ✅ Conclusion
 This project successfully implements a machine learning pipeline from raw data to model evaluation for spam message detection. It demonstrates core machine learning concepts including data cleaning, feature extraction, model training, and evaluation — making it a perfect project for beginners or intermediate learners interested in NLP and applied machine learning.
 
-#OUTPUT
+#OUTPUT 
+
+[TASK4 OTPUT.docx](https://github.com/user-attachments/files/20878138/TASK4.OTPUT.docx)
