@@ -123,4 +123,4 @@ This project successfully implements a machine learning pipeline from raw data t
 
 #OUTPUT 
 
-[TASK4 OTPUT.docx](https://github.com/user-attachments/files/20878138/TASK4.OTPUT.docx)
+![Image](https://github.com/user-attachments/assets/45f09c6d-fb2f-46e7-9587-8c14c27292a4)
